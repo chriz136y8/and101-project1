@@ -25,11 +25,7 @@ The following STRETCH features are implemented:
 - [ ] Modify the profile image by uploading a new image drawable
 
 ## Video Demo
-
-Here's a video / GIF that demos all of the app's implemented features:
-<img src="https://www.loom.com/embed/7121e8cf425945bc888238108738d6e9?sid=a3315dcc-5d5f-4937-876c-a85f4782736b" title='Video Demo' width='' alt='Video Demo' />
-
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/7121e8cf425945bc888238108738d6e9?sid=9dc153a2-c992-41af-bc5b-d8e12a87a9a3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 GIF created with **your chosen GIF tool**
 
