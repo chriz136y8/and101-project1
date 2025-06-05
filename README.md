@@ -27,9 +27,8 @@ The following STRETCH features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+<img src="https://www.loom.com/embed/7121e8cf425945bc888238108738d6e9?sid=a3315dcc-5d5f-4937-876c-a85f4782736b" title='Video Demo' width='' alt='Video Demo' />
 
-
-<iframe src="https://www.loom.com/embed/7121e8cf425945bc888238108738d6e9?sid=a3315dcc-5d5f-4937-876c-a85f4782736b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 
 
 GIF created with **your chosen GIF tool**
