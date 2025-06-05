@@ -25,14 +25,16 @@ The following STRETCH features are implemented:
 - [ ] Modify the profile image by uploading a new image drawable
 
 ## Video Demo
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/7121e8cf425945bc888238108738d6e9?sid=9dc153a2-c992-41af-bc5b-d8e12a87a9a3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-GIF created with **your chosen GIF tool**
-
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
+<div>
+    <a href="https://www.loom.com/share/7121e8cf425945bc888238108738d6e9">
+      <p>hello squirrel - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/7121e8cf425945bc888238108738d6e9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7121e8cf425945bc888238108738d6e9-ba60b24245237fee-full-play.gif">
+    </a>
+  </div>
+  
+GIF created with **Loom*
 
 ## Notes
 
